@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="matt.tests.BaseTest" duration-ms="7661" started-at="2020-05-05T16:59:50 MSK" finished-at="2020-05-05T16:59:58 MSK">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7661" started-at="2020-05-05T16:59:50 MSK" finished-at="2020-05-05T16:59:58 MSK">
+      <class name="matt.tests.BaseTest">
+        <test-method status="PASS" signature="preparationMethod()[pri:0, instance:matt.tests.BaseTest@20398b7c]" name="preparationMethod" is-config="true" duration-ms="2878" started-at="2020-05-05T16:59:50 MSK" finished-at="2020-05-05T16:59:53 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preparationMethod -->
+        <test-method status="PASS" signature="browserTest()[pri:0, instance:matt.tests.BaseTest@20398b7c]" name="browserTest" duration-ms="4545" started-at="2020-05-05T16:59:53 MSK" finished-at="2020-05-05T16:59:57 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserTest -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:matt.tests.BaseTest@20398b7c]" name="closeDriver" is-config="true" duration-ms="216" started-at="2020-05-05T16:59:57 MSK" finished-at="2020-05-05T16:59:58 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- matt.tests.BaseTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- matt.tests.BaseTest -->
+</testng-results>
